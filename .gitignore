@@ -1,4 +1,5 @@
 /training/tennis-ball-detection-6
+/training/tennis_court_dataset
 .env
 runs
 input_videos
